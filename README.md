@@ -1,1 +1,1 @@
-# ETVI-across-Chinese-cities
+The code and data provided are for the paper: Evaluating regional disparities in socio-economic vulnerability to coal phase-out across Chinese cities. For any question, please contact li.yingzhu@zju.edu.cn.
